@@ -1,6 +1,14 @@
-<h1 align="center">Gabriela Scofield</h1>
+<p align="right">
+  <img title="Brownie" alt="Brownie" src="icon.png" width="40"/>
+</p>
+
+<h1 align="center">
+  Gabriela Scofield
+</h1>
+
 <br>
 Hi! I'm a Software Developer currently graduating in <b> Control and Automation Engineering</b>.
+
 <br><br>
 
 <b> Academic Situation:</b> 4<sup>th</sup> semester
