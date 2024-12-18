@@ -8,12 +8,25 @@
 
 <br>
 Hi! I'm a Software Developer currently graduating in <b> Control and Automation Engineering</b>.
+<br><b> Academic Situation:</b> 4<sup>th</sup> semester
+
+<br><br>
+<ul>
+  <li>
+    <b>About me:</b> Always looking for new projects on my spare time.
+  </li>
+  
+  <li>
+    <b>Hobbies:</b> Passionate about learning more!
+  </li>
+  
+  <li>
+    <b>Languages Spoken:</b> Portuguese <i>(native)</i>, French<i> (native)</i>, English<i> (native)</i>, German<i> (intermediate)</i> and Spanish<i> (beginner)</i>
+  </li>
+</ul>
 
 <br><br>
 
-<b> Academic Situation:</b> 4<sup>th</sup> semester
-
-<br><br>
 <h3 align="center">Languages and Tools:</h3>
 <br>
 <p align="center"> 
